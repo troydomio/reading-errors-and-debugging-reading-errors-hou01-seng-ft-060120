@@ -1,3 +1,4 @@
 "hello world"
 
-var hi= "hello_world"
+def hi= "hello_world"
+end
